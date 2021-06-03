@@ -1,1 +1,1 @@
-# jehu.sty
+# styles
