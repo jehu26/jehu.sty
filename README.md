@@ -1,3 +1,1 @@
-# styles
-
-Hopefully will be done by the next millennium.
+some rather unremarkable TeX stuff
